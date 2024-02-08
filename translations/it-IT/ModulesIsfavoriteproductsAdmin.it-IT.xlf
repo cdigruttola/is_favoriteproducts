@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin695btzpaq1ikxkhsrbb" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="542f9e434ec5a4608f7fa0d5ba769048">
+        <source>Favorite products module</source>
+        <target>Favorite products module</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0d1ba940e255e33a976fed5230567bce">
+        <source>Falcon theme favorite products module</source>
+        <target>Falcon theme favorite products module</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
